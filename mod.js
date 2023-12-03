@@ -8,7 +8,6 @@ const ModuleName = "OBS";
 // To work this requires the shortcut to have the --startstreaming arg set in Target
 const obsShortcutPath = path.join(
   __dirname,
-  "..",
   "/assets/obs_executable_shortcut.lnk"
 );
 
