@@ -2,7 +2,7 @@ Istructions:
 
 - unzip folder or clone it
 - put the folder in the /mods folder of tera toolbox
-- in the /assets folder put an executable shortcut for obs with the `--startstreaming` cmd at the end of the "Target" field (eg. `"C:\Program Files\obs-studio\bin\64bit\obs64.exe" --startstreaming`)
+- in the /assets folder put an executable shortcut for obs with the `--startstreaming` cmd at the end of the "Target" field (eg. `"C:\Program Files\obs-studio\bin\64bit\obs64.exe" --startstreaming`) and name it "obs_executable_shortcut.lnk"
 - launch the game
 - to get a list of available commands type `/8 obs help` in game
 
