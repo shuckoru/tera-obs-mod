@@ -1,7 +1,7 @@
 const { exec } = require("child_process");
 const path = require("path");
 
-const { sendModuleBasedInGameCmdMessage } = require("./commons");
+const { sendModuleBasedInGameCmdMessage } = require("tera-mod-commons");
 
 const ModuleName = "OBS";
 
